@@ -1,6 +1,6 @@
 function Hero() {
   return (
-    <section className=" pb-36">
+    <section className=" pb-12 sm:pb-32">
       <div className="container-wrapper">
         <div className="relative z-50">
       
@@ -12,7 +12,7 @@ function Hero() {
             <img src="images/hero.png" alt="" className=" mx-auto" />
           </div>
 
-          <a href="https://solscan.io/token/nPQTtFaZXWJNCshUAhTh67Vqb2RoGoEr4z8n5fVp9pN" target="_blank" className="my-2 text-base text-center text-white  sm:text-xl">
+          <a href="https://solscan.io/token/nPQTtFaZXWJNCshUAhTh67Vqb2RoGoEr4z8n5fVp9pN" target="_blank" className="my-2 flex justify-center text-base text-center text-white  sm:text-xl">
             {" "}
             Contract : nPQTtFaZXWJNCshUAhTh67Vqb2RoGoEr4z8n5fVp9pN
           </a>

@@ -27,8 +27,8 @@ function Navbar() {
         >
           <div className="flex items-center space-x-4 justify-between mb-6 lg:hidden">
             <img
-              src="/images/logo-text-3.png"
-              className="w-full max-w-[9rem]"
+              src="/images/logo.png"
+              className="w-full max-w-[6rem]"
               alt=""
             />
 

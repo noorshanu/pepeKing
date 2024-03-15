@@ -18,12 +18,17 @@ function AppLayout() {
          <div>
                <AboutUs/>
 
-               <div className="container-wrapper">
-               <img
-                  src="/images/logo.png"
-                  className="max-w-[16rem] w-full mx-auto"
-                  alt=""
-               />
+               <div className="container-wrapper mt-8">
+               <div className=" flex items-center justify-center gap-2">
+       <img
+          src="/images/logo.png"
+          className="max-w-[7rem] w-full rounded-full"
+          alt=""
+        />
+
+        <p className=" text-2xl font-medium">KingPepe</p>
+       </div>
+
             </div>
             </div>
 
