@@ -20,14 +20,14 @@ function Hero() {
 
         <div className="relative z-40 flex items-center justify-center my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
           <a
-            href="https://app.uniswap.org/tokens/ethereum/0xd66368c0c1fdaa8a7eebcbe87e0ffa2ed0deb563"
+            href="#"
             target="_blank"
             className="py-2 text-base uppercase px-10 rounded-full bg-gradient-to-b from-[#000000] to-[#2B0000] shadow-lg shadow-black/40 text-white  font-bold border border-white"
           >
             buy now
           </a>
           <a
-            href="https://t.me/luckyerc404"
+            href="https://t.me/kingpepeso"
             className="text-base py-2 uppercase px-10 rounded-full bg-gradient-to-b from-[#FFD600] to-[#C9A900] shadow-lg shadow-black/40 text-black  font-bold border border-yellow"
           >
             join telegram

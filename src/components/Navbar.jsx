@@ -64,10 +64,10 @@ function Navbar() {
 
         <div className="flex items-center space-x-6">
           <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="https://twitter.com/Luckyerc404">
+            <a target="_blank" href="https://twitter.com/KingPepeee">
               <FaTwitter />
             </a>
-            <a target="_blank" href="https://t.me/luckyerc404">
+            <a target="_blank" href="https://t.me/kingpepeso">
               <FaTelegram />
             </a>
           </div>
