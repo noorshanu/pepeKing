@@ -5,7 +5,7 @@ function Hero() {
         <div className="relative z-50">
       
           <h4 className="mt-4 text-xl text-center">
-            King PEPE is the real king of the Solana meme world
+           PepeKing is the real king of the Solana meme world
           </h4>
 
           <div>
@@ -35,8 +35,8 @@ function Hero() {
         </div>
 
         {/* <p className="mt-4 text-xl text-center">
-          King Pepe on Solana isn't just a random meme; it's backed by a team
-          with a track record of success. With King Pepe, you're not just buying
+         PepeKing on Solana isn't just a random meme; it's backed by a team
+          with a track record of success. WithPepeKing, you're not just buying
           into a coin; you're joining a legacy of meme greatness.
         </p> */}
       </div>

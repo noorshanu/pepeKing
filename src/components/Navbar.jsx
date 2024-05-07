@@ -16,7 +16,7 @@ function Navbar() {
           alt=""
         />
 
-        <p className=" text-2xl font-medium">KingPepe</p>
+        <p className=" text-2xl font-medium">PepeKing</p>
        </div>
 
         <div
@@ -64,10 +64,10 @@ function Navbar() {
 
         <div className="flex items-center space-x-6">
           <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="https://twitter.com/KingPepeee">
+            <a target="_blank" href="https://twitter.com/PepeKingee">
               <FaTwitter />
             </a>
-            <a target="_blank" href="https://t.me/kingpepeso">
+            <a target="_blank" href="https://t.me/PepeKingso">
               <FaTelegram />
             </a>
           </div>

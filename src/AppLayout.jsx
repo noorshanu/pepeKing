@@ -27,7 +27,7 @@ function AppLayout() {
               alt=""
             />
 
-            <p className=" text-2xl font-medium">KingPepe</p>
+            <p className=" text-2xl font-medium">PepeKing</p>
           </div>
         </div>
       </div>
