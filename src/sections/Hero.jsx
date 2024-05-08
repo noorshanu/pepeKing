@@ -20,11 +20,11 @@ function Hero() {
 
         <div className="relative z-40 flex items-center justify-center my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
           <a
-            href="#"
+            href="https://www.dextools.io/app/en/solana/pair-explorer/8tJrb3UeeoGgF1X74WwH8V62kmsKH5MFKeVAoo6M8a7T?t=1715155421934"
             target="_blank"
             className="py-2 text-base uppercase px-10 rounded-full bg-gradient-to-b from-[#000000] to-[#2B0000] shadow-lg shadow-black/40 text-white  font-bold border border-white"
           >
-            buy now
+         DexTools
           </a>
           <a
             href="https://t.me/pepekingso"
