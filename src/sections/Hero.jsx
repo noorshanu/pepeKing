@@ -12,9 +12,9 @@ function Hero() {
             <img src="images/hero.png" alt="" className=" mx-auto" />
           </div>
 
-          <a href="https://solscan.io/token/" target="_blank" className="my-2 flex justify-center text-base text-center text-white  sm:text-xl">
+          <a href="https://solscan.io/token/EXkeqPf6S2hfxkqjSUtgtVwGjtJ1iezeYgz2YYgBCTDT" target="_blank" className="my-2 flex justify-center text-base text-center text-white  sm:text-xl">
             {" "}
-            Contract : nPQTtFaZXWJNCggggdEr4z8n5fVp9pN
+            Contract : EXkeqPf6S2hfxkqjSUtgtVwGjtJ1iezeYgz2YYgBCTDT
           </a>
         </div>
 
