@@ -12,9 +12,9 @@ function Hero() {
             <img src="images/hero.png" alt="" className=" mx-auto" />
           </div>
 
-          <a href="https://solscan.io/token/nPQTtFaZXWJNCshUAhTh67Vqb2RoGoEr4z8n5fVp9pN" target="_blank" className="my-2 flex justify-center text-base text-center text-white  sm:text-xl">
+          <a href="https://solscan.io/token/" target="_blank" className="my-2 flex justify-center text-base text-center text-white  sm:text-xl">
             {" "}
-            Contract : nPQTtFaZXWJNCshUAhTh67Vqb2RoGoEr4z8n5fVp9pN
+            Contract : nPQTtFaZXWJNCggggdEr4z8n5fVp9pN
           </a>
         </div>
 
@@ -27,7 +27,7 @@ function Hero() {
             buy now
           </a>
           <a
-            href="https://t.me/kingpepeso"
+            href="https://t.me/pepekingso"
             className="text-base py-2 uppercase px-10 rounded-full bg-gradient-to-b from-[#FFD600] to-[#C9A900] shadow-lg shadow-black/40 text-black  font-bold border border-yellow"
           >
             join telegram
