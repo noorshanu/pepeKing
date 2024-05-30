@@ -7,7 +7,7 @@ function Navbar() {
   const [isSidebarVisible, setSidebarVisibility] = useState(false);
 
   return (
-    <nav className=" py-2.5">
+    <nav className=" py-2.5 border-b border-[#dd3333]">
       <div className="container-wrapper flex items-center justify-between relative">
        <div className=" flex items-center gap-2">
        <img
@@ -16,7 +16,7 @@ function Navbar() {
           alt=""
         />
 
-        <p className=" text-2xl font-medium">PepeKing</p>
+        <p className=" text-2xl font-medium">PepeWitHat</p>
        </div>
 
         <div
@@ -47,14 +47,14 @@ function Navbar() {
             {/* <li>
               <a href="/">About</a>
             </li> */}
-            {/* <li>
-              <a href="/">Roadmap</a>
-            </li> */}
             <li>
-              <a href="/">How to buy</a>
+              <a href="/">Roadmap</a>
             </li>
             <li>
-              <a href="/">FAQs</a>
+              <a href="/">Tokenomics</a>
+            </li>
+            <li>
+              <a href="/">Conatct Us</a>
             </li>
             {/* <li>
               <a href="/">Vote</a>
@@ -67,7 +67,7 @@ function Navbar() {
             <a target="_blank" href="http://twitter.com/KingPepe_11">
               <FaTwitter />
             </a>
-            <a target="_blank" href="https://t.me/pepekingso">
+            <a target="_blank" href="https://t.me/PepeWitHatso">
               <FaTelegram />
             </a>
           </div>

@@ -6,7 +6,7 @@ import Meme from "./sections/Meme";
 function AppLayout() {
   return (
     <>
-      <main className="pb-5 pt-2 bg-main">
+      <main className="pb-5 pt-2 bg-main ">
         <Navbar />
         <Hero />
       </main>
@@ -27,7 +27,7 @@ function AppLayout() {
               alt=""
             />
 
-            <p className=" text-2xl font-medium">PepeKing</p>
+            <p className=" text-2xl font-medium">PepeWitHat</p>
           </div>
         </div>
       </div>

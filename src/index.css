@@ -9,7 +9,7 @@
 
   html,
   body {
-    @apply bg-[#111420] text-white  ;
+    @apply bg-[#4c9540] text-white  ;
   }
 
   .container-wrapper {
@@ -19,7 +19,8 @@
 
 
 .bg-main{
-  background-image: url(/images/bg.jpg);
+  background-image: url(/images/bg.png);
+
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
