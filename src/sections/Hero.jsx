@@ -12,7 +12,7 @@ function Hero() {
           </h4>
 
           <div>
-            <img src="images/hero.png" alt="" className=" mx-auto" />
+            <img src="images/hero.png" alt="" className=" mx-auto floating " />
           </div>
 
           <a href="https://solscan.io/token/" target="_blank" className="my-2 flex justify-center text-base text-center text-white  sm:text-xl">

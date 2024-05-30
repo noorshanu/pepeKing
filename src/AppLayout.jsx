@@ -24,7 +24,9 @@ function AppLayout() {
           <Roadmap/>
         </div>
 
-        <div className="container-wrapper mt-8">
+
+          <div className="bg-[#113a00] border-t border-[#dd3333] mt-8">
+          <div className="container-wrapper  ">
           <div className=" flex items-center justify-center gap-2">
             <img
               src="/images/logo.png"
@@ -35,6 +37,8 @@ function AppLayout() {
             <p className=" text-2xl font-medium">PepeWitHat</p>
           </div>
         </div>
+          </div>
+  
       </div>
     </>
   );
