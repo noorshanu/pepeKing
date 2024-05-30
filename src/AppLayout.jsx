@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import AboutUs from "./sections/AboutUs";
 import Hero from "./sections/Hero";
 import Meme from "./sections/Meme";
+import Roadmap from "./sections/Roadmap";
 
 function AppLayout() {
   return (
@@ -17,6 +18,10 @@ function AppLayout() {
 
          <Meme/>
 
+        </div>
+
+        <div>
+          <Roadmap/>
         </div>
 
         <div className="container-wrapper mt-8">

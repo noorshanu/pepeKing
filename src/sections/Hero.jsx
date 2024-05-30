@@ -30,10 +30,10 @@ function Hero() {
       <img src="images/dex.svg" alt="" className="h-[30px]" />
           </a>
           <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="http://twitter.com/KingPepe_11">
+            <a target="_blank" href="http://twitter.com/">
               <FaTwitter />
             </a>
-            <a target="_blank" href="https://t.me/PepeWitHatso">
+            <a target="_blank" href="https://t.me/PepeWitHat">
               <FaTelegram />
             </a>
           </div>
