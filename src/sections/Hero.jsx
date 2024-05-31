@@ -15,15 +15,15 @@ function Hero() {
             <img src="images/hero.png" alt="" className=" mx-auto floating " />
           </div>
 
-          <a href="https://solscan.io/token/" target="_blank" className="my-2 flex justify-center text-base text-center text-white  sm:text-xl">
+          <a href="https://solscan.io/token/EmnLZtmoe3D8VhDU4PERUycaRtxac9b51P4n18Nr4NUB" target="_blank" className="my-2 flex justify-center text-base text-center text-white  sm:text-xl">
             {" "}
-            Contract : 
+            Contract : EmnLZtmoe3D8VhDU4PERUycaRtxac9b51P4n18Nr4NUB
           </a>
         </div>
 
         <div className="relative z-40 flex items-center justify-center my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
           <a
-            href="https://www.dextools.io/app/en/solana/"
+            href="https://www.dextools.io/app/en/solana/pair-explorer/CvNDrD6cX4fFTJ1ogQxetkguSbvMAVyCnJpBVikNLmSg?t=1717160907986"
             target="_blank"
             className="py-2 text-base uppercase px-6 rounded-full bg-gradient-to-b from-[#000000] to-[#2B0000] shadow-lg shadow-black/40 text-white  font-bold border border-white"
           >
