@@ -10,17 +10,17 @@ function Roadmap() {
           <div>
             <h2>Phase 1</h2>
 
-            <p>Lorem ipsum dolor sit </p>
-            <p>Lorem ipsum dolor sit </p>
-            <p>Lorem ipsum dolor sit </p>
-            <p>Lorem ipsum dolor sit </p>
+            <p>Launch</p>
+            <p>Global Marketing</p>
+            <p>100 to 1000 holders </p>
+            <p>CMC & CG</p>
 
             <h2 className=" mt-4">Phase 2</h2>
 
-            <p>Lorem ipsum dolor sit </p>
-            <p>Lorem ipsum dolor sit </p>
-            <p>Lorem ipsum dolor sit </p>
-            <p>Lorem ipsum dolor sit </p>
+            <p>Events, competitions, and giveaways</p>
+            <p>Tier 1 exchange </p>
+            <p>Influencer Partnerships </p>
+            <p>Further work on utility and better feature </p>
           </div>
 
           <div>
